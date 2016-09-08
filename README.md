@@ -1,8 +1,3 @@
----
-title: Data Portal
----
-# __Data Portal__
-
 [KPI Wheel](http://kpiwheel.casumocave.local) *- Know how's Casumo doing*
 
 [Sisense](http://sisense.casumo.local/app/account#/login) *- Design and share your own BI reports*
