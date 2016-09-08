@@ -1,4 +1,4 @@
-# Data Portal
+![alt tag](http://awsproddatacollab01/usr/local/apache2/htdocs/top.png)
 
 [KPI Wheel](http://kpiwheel.casumocave.local) *- Know how's Casumo doing*
 
